@@ -2,7 +2,7 @@
 echo "Hello World!" 
 # echo is similar to print statement.
 git config --global user.name 'Santiago Icasuriaga, Leandro Martinez' 
-git config --global user.email 'santiagoicasuriaga@gmail.com'
+git config --global user.email 'santiagoicasuriaga2@gmail.com'
 git config --global color.ui true
 git config --global pull.rebase true
 git config --global credential.username "Snt1ago"
